@@ -1,0 +1,24 @@
+void main (){
+//caracteres e texto 
+String animais = "cuidar";
+print("adoro $animais: principalmente filhotes");
+//verdadeiro e false 
+bool loki = true;
+print("loki: $loki");
+//operação de soma 
+int hades = 6;
+int zeus = 9;
+int resultado = hades + zeus;
+print(resultado);
+//operação subtração
+int hera = hades - zeus;
+print("hera: $hera");
+//operação multiplicação
+int nix = hades * zeus;
+print("nix: $nix");
+//operação divisão
+double leao = 7;
+double tigre = 8;
+double result = leao / tigre;
+print(result);
+}
